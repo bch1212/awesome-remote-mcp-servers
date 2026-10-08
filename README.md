@@ -2195,7 +2195,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Buy and manage residential, mobile and datacenter proxies in 170+ countries, prepaid per GB.
 - [PubRecords](https://mcp-pubrecords-production.up.railway.app) `https://mcp-pubrecords-production.up.railway.app/mcp/`
   [![PubRecords MCP connector](https://glama.ai/mcp/connectors/io.github.bch1212/pubrecords/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.bch1212/pubrecords)
-  🔓 - Search US company filings, SEC reports, federal court cases, spending awards, providers, licenses, and entity-verification signals.
+  🔓 - Search US company filings, SEC reports, federal court cases, spending awards, licenses, and entity records.
 - [QRCode.Pub tools](https://qrcode.pub/qr-code-api#mcp) `https://qrcode.pub/mcp`
   [![QRCode.Pub tools MCP connector](https://glama.ai/mcp/connectors/pub.qrcode/tools/badges/score.svg)](https://glama.ai/mcp/connectors/pub.qrcode/tools)
   🔓 - Free QR code images plus pay-per-call page-to-Markdown, page metadata and file hosting, in USDC via x402.
